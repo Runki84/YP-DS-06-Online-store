@@ -43,4 +43,4 @@
 <li><b>Прибыль</b> — значение прибыли в условных единицах.</li>
 </ul>
 
-<a href="https://github.com/Runki84/YP-DS-06-Online-store/blob/main/06-Online-store.ipynb">Проект</a>
+<a href="https://github.com/Runki-DS/YP-DS-06-Online-store/blob/main/06-Online-store.ipynb">Проект</a>
